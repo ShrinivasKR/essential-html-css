@@ -42,11 +42,12 @@ h1 {
 }
 
 h2, h3 {
-	font-color: #505050;
+	color: #505050;
 }
 
 h2 {
 	font-size: 150%;
+	margin: 0;
 }
 
 h3 {
